@@ -39,4 +39,5 @@ ENV A8_CONTROLLER_URL=http://dev-a8-controller-CBJ-123.mybluemix.net
 
 # Define command to run the application when the container starts
 # CMD ["node", "/app/app.js"] 
+#
 
